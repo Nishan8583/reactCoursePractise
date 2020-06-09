@@ -1,4 +1,4 @@
-# This was my first project after learning REACT. This was a course exersie
+# This was my first project after learning REACT. This was a course exersise
 
 `To start`
 - npm start
