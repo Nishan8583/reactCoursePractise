@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'MrRobot';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MrRobot'), url('MR ROBOT.woff') format('woff');
+    }
+
+.heading{
+        margin:auto;
+        align-content: center;
+        width: 25%;
+        font-family: 'MrRobot';
+        color: cadetblue;
+        text-align: center;
+    }

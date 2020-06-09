@@ -1,0 +1,54 @@
+export const robots = [
+    {
+        name:"nishan",
+        id:1,
+        email:"nishan@vairav.net"
+    },
+    {
+        name:"sasim",
+        id:2,
+        email:"sasim@vairav.net"
+    },
+    {
+        name:"samrat",
+        id:3,
+        email:"samrat@vairav.net"
+    },
+    {
+        name:"nishu",
+        id:4,
+        email:"nishu@vairav.net"
+    },
+    {
+        name:"thishu",
+        id:5,
+        email:"thishu@vairav.net"
+    },
+    {
+        name:"hero",
+        id:6,
+        email:"hero@vairav.net"
+    },
+    {
+        name:"sasimni",
+        id:7,
+        email:"sasimni@vairav.net"
+    },
+    {
+        name:"samratni",
+        id:8,
+        email:"samratni@vairav.net"
+    },
+    {
+        name:"avya",
+        id:9,
+        email:"avya@vairav.net"
+    },
+    {
+        name:"pp",
+        id:10,
+        email:"pp@vairav.net"
+    }
+
+
+];
