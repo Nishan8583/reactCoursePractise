@@ -7,6 +7,7 @@ import Home from './components/Home';
 import Genres from "./components/genres"
 import Movies from './components/Movies';
 import Movie from "./components/Movie"
+import Login from './components/Login';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -26,7 +27,10 @@ const router = createBrowserRouter([
         path: "/genres",
         element: <Genres />,
       },
-
+      {
+        path: "/login",
+        element: <Login />,
+      },
      
     ]
   }
